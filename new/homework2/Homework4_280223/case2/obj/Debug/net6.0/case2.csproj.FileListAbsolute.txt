@@ -1,0 +1,15 @@
+S:\Users\Олег\Desktop\homework\new\homework2\Homework4_280223\case2\bin\Debug\net6.0\case2.exe
+S:\Users\Олег\Desktop\homework\new\homework2\Homework4_280223\case2\bin\Debug\net6.0\case2.deps.json
+S:\Users\Олег\Desktop\homework\new\homework2\Homework4_280223\case2\bin\Debug\net6.0\case2.runtimeconfig.json
+S:\Users\Олег\Desktop\homework\new\homework2\Homework4_280223\case2\bin\Debug\net6.0\case2.dll
+S:\Users\Олег\Desktop\homework\new\homework2\Homework4_280223\case2\bin\Debug\net6.0\case2.pdb
+S:\Users\Олег\Desktop\homework\new\homework2\Homework4_280223\case2\obj\Debug\net6.0\case2.csproj.AssemblyReference.cache
+S:\Users\Олег\Desktop\homework\new\homework2\Homework4_280223\case2\obj\Debug\net6.0\case2.GeneratedMSBuildEditorConfig.editorconfig
+S:\Users\Олег\Desktop\homework\new\homework2\Homework4_280223\case2\obj\Debug\net6.0\case2.AssemblyInfoInputs.cache
+S:\Users\Олег\Desktop\homework\new\homework2\Homework4_280223\case2\obj\Debug\net6.0\case2.AssemblyInfo.cs
+S:\Users\Олег\Desktop\homework\new\homework2\Homework4_280223\case2\obj\Debug\net6.0\case2.csproj.CoreCompileInputs.cache
+S:\Users\Олег\Desktop\homework\new\homework2\Homework4_280223\case2\obj\Debug\net6.0\case2.dll
+S:\Users\Олег\Desktop\homework\new\homework2\Homework4_280223\case2\obj\Debug\net6.0\refint\case2.dll
+S:\Users\Олег\Desktop\homework\new\homework2\Homework4_280223\case2\obj\Debug\net6.0\case2.pdb
+S:\Users\Олег\Desktop\homework\new\homework2\Homework4_280223\case2\obj\Debug\net6.0\case2.genruntimeconfig.cache
+S:\Users\Олег\Desktop\homework\new\homework2\Homework4_280223\case2\obj\Debug\net6.0\ref\case2.dll
