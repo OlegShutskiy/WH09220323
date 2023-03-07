@@ -1,0 +1,15 @@
+S:\Users\Олег\Desktop\homework\new\WH7070323\case1\bin\Debug\net6.0\case1.exe
+S:\Users\Олег\Desktop\homework\new\WH7070323\case1\bin\Debug\net6.0\case1.deps.json
+S:\Users\Олег\Desktop\homework\new\WH7070323\case1\bin\Debug\net6.0\case1.runtimeconfig.json
+S:\Users\Олег\Desktop\homework\new\WH7070323\case1\bin\Debug\net6.0\case1.dll
+S:\Users\Олег\Desktop\homework\new\WH7070323\case1\bin\Debug\net6.0\case1.pdb
+S:\Users\Олег\Desktop\homework\new\WH7070323\case1\obj\Debug\net6.0\case1.csproj.AssemblyReference.cache
+S:\Users\Олег\Desktop\homework\new\WH7070323\case1\obj\Debug\net6.0\case1.GeneratedMSBuildEditorConfig.editorconfig
+S:\Users\Олег\Desktop\homework\new\WH7070323\case1\obj\Debug\net6.0\case1.AssemblyInfoInputs.cache
+S:\Users\Олег\Desktop\homework\new\WH7070323\case1\obj\Debug\net6.0\case1.AssemblyInfo.cs
+S:\Users\Олег\Desktop\homework\new\WH7070323\case1\obj\Debug\net6.0\case1.csproj.CoreCompileInputs.cache
+S:\Users\Олег\Desktop\homework\new\WH7070323\case1\obj\Debug\net6.0\case1.dll
+S:\Users\Олег\Desktop\homework\new\WH7070323\case1\obj\Debug\net6.0\refint\case1.dll
+S:\Users\Олег\Desktop\homework\new\WH7070323\case1\obj\Debug\net6.0\case1.pdb
+S:\Users\Олег\Desktop\homework\new\WH7070323\case1\obj\Debug\net6.0\case1.genruntimeconfig.cache
+S:\Users\Олег\Desktop\homework\new\WH7070323\case1\obj\Debug\net6.0\ref\case1.dll
